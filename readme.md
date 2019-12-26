@@ -29,7 +29,7 @@ https://console.developers.google.com/projectcreate
 
 https://console.developers.google.com/apis
 
-* You also need to create an API key for the Google Maps API (Recommended you choose option "Help me choose".
+* You also need to create an API key for the Google Maps API (Recommended you choose option "Help me choose")
 
 https://console.developers.google.com/apis/credentials
 
